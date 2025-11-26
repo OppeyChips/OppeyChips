@@ -5,7 +5,7 @@ I'm **Chips**, a web developer and game developer building modern web experience
 I focus on delivering clean, high-performance applications with thoughtful UI/UX.  
 From sleek **Next.js** websites to **Unity** game prototypes, I design products that feel smooth, look premium, and actually solve problems.
 
-I enjoy working on personal brands, community tools, and playful digital ideas — especially Discord bots and sports-themed platforms.  
+I enjoy working on personal brands, community tools, and playful digital ideas, Discord bots and motive driven platforms.  
 Creating things that people genuinely enjoy using is what keeps me coding.
 
 ---
