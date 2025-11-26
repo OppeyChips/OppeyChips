@@ -1,15 +1,20 @@
 ### Hi there! 👋
 
-I'm **Chips**, a web developer, game developer, and creative technologist.
+I'm **Chips**, a web developer and game developer building modern web experiences and creative interactive worlds.
 
-I design and build high-quality digital experiences from **modern web applications** to **immersive games** and **smart automation tools**. My focus lies in bringing ideas to life with clean architecture, premium UI, and smooth performance.
+I focus on delivering clean, high-performance applications with thoughtful UI/UX.  
+From sleek **Next.js** websites to **Unity** game prototypes, I design products that feel smooth, look premium, and actually solve problems.
 
-I’ve worked on projects that power communities, streamline workflows, and entertain thousands of users across multiple platforms. Whether it’s a dynamic sports website, a custom Discord bot ecosystem, or a gameplay prototype I take products from concept to polished reality.
+I enjoy working on personal brands, community tools, and playful digital ideas — especially Discord bots and sports-themed platforms.  
+Creating things that people genuinely enjoy using is what keeps me coding.
 
-Outside of development, I follow the latest in technology & game design, experiment with visual aesthetics, and occasionally break computers (only to rebuild them better).  
-Gaming, art, and innovation keep me inspired — and always building the next big thing.
+---
 
-### Let’s connect and make cool stuff together!  
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)]([[https://profchips.beer](https://profchips.beer/)](https://profchips.beer/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ishant-g-2158b039a](https://www.linkedin.com/in/ishant-g-2158b039a/)](https://www.linkedin.com/in/ishant-g-2158b039a/))
+Outside of dev life, you'll find me exploring tech, leveling up in games, and experimenting with visual design.  
+Always learning. Always building the next big upgrade. 
 
+---
+
+###  Let’s connect!
+[![Portfolio](https://img.shields.io/badge/profchips.beer-111?style=for-the-badge&logo=vercel&logoColor=white)](https://profchips.beer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-g-2158b039a/)
