@@ -10,6 +10,6 @@ Outside of development, I follow the latest in technology & game design, experim
 Gaming, art, and innovation keep me inspired — and always building the next big thing.
 
 ### Let’s connect and make cool stuff together!  
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)]([https://yourwebsite.com](https://profchips.beer/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ishant-g-2158b039a/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)]([[https://yourwebsite.com](https://profchips.beer/)](https://profchips.beer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ishant-g-2158b039a/)](https://www.linkedin.com/in/ishant-g-2158b039a/))
 
